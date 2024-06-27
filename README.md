@@ -44,7 +44,7 @@ Gerekli kütüphaneleri yüklemek için aşağıdaki adımları izleyin:
 
 ### Çalıştırma
 
-Oyunu çalıştırmak için şu komutu kullanın:
+Uygulamayı çalıştırmak için şu komutu kullanın:
 ```sh
 python __main__.py
 ```
